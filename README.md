@@ -9,11 +9,10 @@
 
 ## 🌟 About Me
 - 🔥 Final-year developer passionate about **Frontend Development + Backend Development + Database **
-- 💼 Skilled in **Java, Spring, Spring Boot,Spring JDBC, SpingORM, Hibernate,RESTAPI, Flutter, Dart, MySQL, Supabase, OracleSQL, JavaScript**
-- 🤖 Built intelligent systems like **AdvoCad**,**NayaSahayak**
+- 💼 Skilled in **Java, Spring, Spring Boot,Spring JDBC, SpingORM, Hibernate,RESTAPI, React js,Dart, MySQL, Supabase, OracleSQL, JavaScript**
+- 🤖 Built intelligent systems like **AdvoCad**,**NayaSahayak**,**Portfolio**,**News Monkey**
 - 📱 Experienced in **building scalable, production-ready Web Application**
-- 🔍 Interested in **AI chatbots, ML-powered features & cloud deployment**
-- 🎯 Goal: Become a strong **Full Stack Developer & AI-driven App Specialist**
+- 🎯 Goal: Become a strong **Full Stack Developer**
 - 📍 From **Amravati, Maharashtra, currently living in Pune**
 - 📘 Familiar With : **HTML5, CSS3, Object-Oriented Programming (OOP), Database Management Systems (DBMS)**
 - 🤝 Soft Skills : **Problem Solving, Self-Learning, Communication, Team Collaboration, Adaptability, Agile Development**
@@ -63,9 +62,8 @@
 ✔ Case handling, blog system, user-lawyer chat  
 ✔ OTP verification + secure authentication  
 
-### 🌐 **Portfolio Website – Full-Stack Web Application**
+### 🔹 **Portfolio Website – Full-Stack Web Application**
 A modern, full-stack portfolio website built to showcase **projects, skills, certifications, and achievements** in a clean and interactive way.
-
 ✔ Designed and developed a **responsive React frontend** for smooth UI/UX.
 ✔ Implemented the backend using **Java Spring Boot**, following REST API architecture.
 ✔ Integrated **Hibernate ORM** to manage database interactions efficiently.
@@ -80,6 +78,14 @@ A modern, full-stack portfolio website built to showcase **projects, skills, cer
 ✔ Provides user-friendly legal guidance  
 ✔ Simple, fast and accessible interface  
 ✔ Designed to support awareness of Indian legal processes  
+
+### 🔹 **NewsMonkey – Real-Time News App**
+✔ Built using React.js
+✔ Integrated NewsAPI for live and dynamic news updates
+✔ Displays breaking news across categories like Sports, Technology, Business, Entertainment & more
+✔ Clean, responsive UI with smooth navigation
+✔ Implements loading indicators, category-based filtering, and infinite scroll
+✔ Designed for fast, reliable, and seamless news reading experience
 
 ---
 
