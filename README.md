@@ -114,7 +114,7 @@ A modern full-stack portfolio platform built to showcase projects, skills, certi
 # 🤝 Connect With Me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/ashish-gulhane" target="_blank">
+<a href="https://www.linkedin.com/in/ashish-gulhane-782262252/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
