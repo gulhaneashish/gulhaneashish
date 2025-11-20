@@ -53,23 +53,23 @@
 # 📌 Featured Projects (Pinned)
 
 ### 🔹 **AdvoCad – Lawyer Hiring Mobile App**
-✔ Flutter + Dart + Supabase
-✔ Lawyer hiring system  
-✔ AI-powered document simplification  
-✔ Gemini 1.5 Pro for image summary  
-✔ Gemini 2.0 Flash for chatbot  
-✔ Real-time legal assistance 
-✔ Case handling, blog system, user-lawyer chat  
-✔ OTP verification + secure authentication  
+✔ Built using Flutter + Dart + Supabase
+✔ Smart lawyer hiring system with case assignment
+✔ AI-powered document simplification for easy understanding
+✔ Gemini 1.5 Pro for image summarization
+✔ Gemini 2.0 Flash for fast legal chatbot responses
+✔ Real-time case handling system, daily legal blogs, and user–lawyer chat
+✔ Secure OTP verification and authentication for lawyers
+✔ Designed to make legal support simple, fast, and accessible
 
 ### 🔹 **Portfolio Website – Full-Stack Web Application**
-A modern, full-stack portfolio website built to showcase **projects, skills, certifications, and achievements** in a clean and interactive way.
-✔ Designed and developed a **responsive React frontend** for smooth UI/UX.
-✔ Implemented the backend using **Java Spring Boot**, following REST API architecture.
-✔ Integrated **Hibernate ORM** to manage database interactions efficiently.
-✔ Used **MySQL** to store project details, skills, visitor messages, and contact form data.
-✔ Deployed the application for **high performance, scalability, and reliability**.
-✔ **Technologies Used:** React, Java Spring Boot, Hibernate, REST APIs, MySQL
+A modern full-stack portfolio platform built to showcase projects, skills, certifications, and achievements with a clean, responsive UI.
+✔ Developed a fully responsive React.js frontend with smooth navigation and dynamic components.
+✔ Built a robust backend using Java Spring Boot following a RESTful architecture.
+✔ Integrated Hibernate ORM for efficient database mapping and CRUD operations.
+✔ Used MySQL to store projects, skills, visitor messages, and contact form submissions.
+✔ Ensured high performance with optimized APIs, clean code structure, and secure deployment.
+✔ Tech Stack: React.js, Java Spring Boot, Hibernate, REST APIs, MySQL.
  
 ### 🔹 **NayaSahayak – Legal Rights Helper**
 ✔ HTML, CSS, JavaScript  
@@ -82,10 +82,10 @@ A modern, full-stack portfolio website built to showcase **projects, skills, cer
 ### 🔹 **NewsMonkey – Real-Time News App**
 ✔ Built using React.js
 ✔ Integrated NewsAPI for live and dynamic news updates
-✔ Displays breaking news across categories like Sports, Technology, Business, Entertainment & more
-✔ Clean, responsive UI with smooth navigation
-✔ Implements loading indicators, category-based filtering, and infinite scroll
-✔ Designed for fast, reliable, and seamless news reading experience
+✔ Displays breaking news across multiple categories like Sports, Technology, Business, Entertainment, Health, Science, and more
+✔ Features a clean and fully responsive UI with smooth component-based navigation
+✔ Implements loading indicators, category-based filtering, and infinite scroll for a seamless experience
+✔ Designed for fast, reliable, and distraction-free news reading
 
 ---
 
