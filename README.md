@@ -330,7 +330,7 @@ A **full-stack finance management application** designed to help users manage ac
                     Entity Framework Core
                             │
                             ▼
-                          MySQL
+                          SQL Server
                             │
              ┌──────────────┴──────────────┐
              ▼                             ▼
@@ -340,7 +340,7 @@ A **full-stack finance management application** designed to help users manage ac
 
 ### Tech Stack
 
-**Angular · C# · ASP.NET Core · Entity Framework Core · MySQL · JWT · SignalR · Repository Pattern · REST API · QR Code · Docker**
+**Angular · C# · ASP.NET Core · Entity Framework Core · SQL Server · JWT · SignalR · Repository Pattern · REST API · QR Code · Docker**
 ---
 
 ## 🔹 Cartify – Full-Stack E-Commerce Platform
