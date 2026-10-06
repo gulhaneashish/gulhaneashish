@@ -287,29 +287,28 @@ A **cloud-ready, microservices-based loan management platform** designed to auto
 
 ---
 
-## 🔹 Institute Test & Assessment Management System
+## 🔹 Finance Manager – Personal Finance Management System
 
-A **full-stack examination and assessment platform** designed for computer institutes to manage students, courses, batches, trainers, question banks, scheduled tests, online examinations, results, and performance analytics.
+A **full-stack finance management application** designed to help users manage accounts, income, expenses, transactions, budgets, and financial activity through a centralized dashboard.
 
 ### Key Features
 
-- 👨‍🎓 Student registration and management
-- 🏫 Course and batch management
-- 👨‍🏫 Trainer management and batch assignment
-- 📚 Subject and question-bank management
-- 📝 MCQ-based test creation
-- 📅 Batch-wise test scheduling
-- ⏱️ Online examination with server-side test timing
-- 💾 Automatic answer saving
-- 🤖 Automatic MCQ evaluation
-- 📊 Student result and performance tracking
-- 📈 Batch-wise and question-wise performance analytics
-- 🔔 Real-time test and result notifications
-- 📡 Real-time communication using **SignalR**
-- 🔐 JWT authentication and role-based authorization
-- 🌐 API Gateway and microservice-based architecture
-- 📨 Event-driven processing using **Apache Kafka**
-- 🐳 Docker-based development and deployment
+- 🔐 JWT-based authentication and role-based authorization
+- 👤 User registration, login, and profile management
+- 💳 Account and wallet management
+- 💰 Income and expense tracking
+- 🔄 Transaction management
+- 📊 Financial dashboard with spending and income analytics
+- 📅 Monthly and category-wise financial summaries
+- 🏷️ Expense categorization
+- 🎯 Budget management and tracking
+- 📈 Financial reports and transaction history
+- 🔔 Real-time notifications using SignalR
+- 📱 QR code generation and scanning for transaction/account workflows
+- 🗄️ Entity Framework Core with repository-based data access
+- 📝 Structured application logging
+- 🔒 Secure RESTful APIs
+- 🐳 Docker-ready backend architecture
 
 ### Architecture
 
@@ -317,32 +316,31 @@ A **full-stack examination and assessment platform** designed for computer insti
                          Angular
                             │
                             ▼
-                       API Gateway
+                     ASP.NET Core API
                             │
-          ┌─────────────────┼─────────────────┐
-          │                 │                 │
-          ▼                 ▼                 ▼
-     Auth Service      Institute Service    Test Service
-                            │                 │
-                            │                 ▼
-                            │          Assessment Service
-                            │                 │
-                            └────────┬────────┘
-                                     │
-                                  Kafka
-                                     │
-                         ┌───────────┴───────────┐
-                         ▼                       ▼
-                  Result Service        Notification Service
-                         │                       │
-                         ▼                       ▼
-                    Result DB              SignalR / Email
+              ┌─────────────┼─────────────┐
+              │             │             │
+              ▼             ▼             ▼
+        Auth Module    Account Module   Transaction
+                                           Module
+              │             │             │
+              └─────────────┼─────────────┘
+                            │
+                            ▼
+                    Entity Framework Core
+                            │
+                            ▼
+                          MySQL
+                            │
+             ┌──────────────┴──────────────┐
+             ▼                             ▼
+          SignalR                       Logging
+       Real-Time Events               & Monitoring
 ```
 
 ### Tech Stack
 
-**Angular · C# · ASP.NET Core · Entity Framework Core · MySQL · JWT · SignalR · Apache Kafka · API Gateway · Microservices · Docker**
-
+**Angular · C# · ASP.NET Core · Entity Framework Core · MySQL · JWT · SignalR · Repository Pattern · REST API · QR Code · Docker**
 ---
 
 ## 🔹 Cartify – Full-Stack E-Commerce Platform
